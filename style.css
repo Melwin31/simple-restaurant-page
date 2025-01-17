@@ -1,0 +1,53 @@
+.footer{
+    background-color: blanchedalmond;
+    padding: 20px;
+    border: solid lightskyblue 5px
+    
+}
+.footer__one__title{
+    background-color: black;
+    color:white;
+    display:inline;
+    border-radius: 5px;
+    padding: 5px;
+    margin:5px;
+}
+.footer__one__desc{
+    text-align: center;
+    border-bottom: solid grey 3px;
+    border-radius: 5px;
+    border
+}
+.footer__two img{
+    height:200px;
+    width:150px;
+    border:solid black 1px;
+  
+}
+.footer__two {
+   
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    gap: 20px;
+    padding: 10px;
+   
+  
+}
+.footer__three img{
+   
+    height:200px;
+    width:150px;
+    border:solid black 1px;
+  
+}  
+.footer__three{
+    display: flex;
+    justify-content: center;
+    margin:0px;
+    gap:20px;
+    padding: 0px;
+   
+    
+    
+}
